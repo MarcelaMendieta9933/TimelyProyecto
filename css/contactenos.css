@@ -1,0 +1,21 @@
+h2
+{
+    text-align: center;
+}
+.modal-body
+{
+    background-color:#C5D2EC;
+}
+label
+{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn
+{
+    color: #000;
+    background-color: #051840;
+}
+
+
